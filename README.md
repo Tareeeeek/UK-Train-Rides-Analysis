@@ -1,4 +1,5 @@
 UK Train Rides: Performance & Punctuality Analysis
+
 📊 Project Overview
 
 This project analyzes UK train operating data to identify performance trends, root causes of delays, and passenger journey impacts. Using Power BI for data integration, analysis, and visualization, we deliver actionable insights to help travelers make informed decisions and provide stakeholders with a clear view of network performance.
